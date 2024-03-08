@@ -1,16 +1,36 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&customColorList=5,5,5&section=header)
 
-<!--
-**aheroglu/aheroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi There! I'm Ahmet Hakan</h1>
+<h3 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&size=30&center=true&color=833AB4&multiline=true&width=1200&lines=ASP.NET+Developer+)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+ About Me 
+</h3>
+
+<p align="center">
+  I am currently learning .NET Core & Angular. 💻
+  <br>
+  I have a passion for programming and tecnology! 🚀
+</p>
+
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/aheroglu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></a>
+</div>
+
+<h3 align="center">
+  Languages & Frameworks & Tools
+</h3>
+
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?&theme=light&i=cs,js,html,css,dotnet,bootstrap,ts,angular,visualstudio,vscode,postman"/>
+  </a>
+</p>
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&customColorList=5,5&section=footer)
+ 
