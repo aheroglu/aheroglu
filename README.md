@@ -3,7 +3,7 @@
 <h1 align="center">Hi There! I'm Ahmet Hakan</h1>
 <h3 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&size=30&center=true&color=833AB4&multiline=true&width=1200&lines=ASP.NET+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&size=30&center=true&color=833AB4&multiline=true&width=1200&lines=.NET+Core,+Angular,+Ionic)](https://git.io/typing-svg)
 
 </h3>
 
