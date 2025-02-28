@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,azure,postman,aws,firebase,git,docker,vscode&theme=dark&perline=6"/>
 </div>
 
-<div align="center">
+<div align="center" style="margin:20px 0">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aherogLu&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000"/>
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=aherogLu&theme=nightowl&hide_border=true&background=00000000"/>
 </div>
