@@ -1,36 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=waving&customColorList=5,5,5&section=header)
-
-<h1 align="center">Hi There! I'm Ahmet Hakan</h1>
-<h3 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&size=30&center=true&color=833AB4&multiline=true&width=1200&lines=.NET+Core,+Angular,+Ionic)](https://git.io/typing-svg)
-
-</h3>
-
-<h3 align="center">
- About Me 
-</h3>
-
-<p align="center">
-  I am currently learning .NET Core & Angular. 💻
-  <br>
-  I have a passion for programming and tecnology! 🚀
-</p>
-
-<br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/aheroglu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&animation=scaleIn&fontSize=50&fontAlignY=40&descAlignY=60&text=Ahmet%20Hakan&desc=Full-Stack%20Developer"/>
 </div>
 
-<h3 align="center">
-  Languages & Frameworks & Tools
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=26&duration=4000&pause=1000&color=7D3CFF&center=true&vCenter=true&width=500&lines=.NET+Core+%7C+Angular;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Clean+Code+Advocate%E2%9C%A8"/>
+</div>
 
-<p align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&theme=light&i=cs,js,html,css,dotnet,bootstrap,ts,angular,visualstudio,vscode,postman,firebase"/>
+<div align="center" style="margin:20px 0">
+  <a href="https://www.linkedin.com/in/aheroglu/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
- 
-![header](https://capsule-render.vercel.app/api?type=waving&customColorList=5,5&section=footer)
- 
+  <a href="mailto:ornek@mail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+## 🛠️ Tech Stack
+<div align="center" style="margin:15px 0">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,azure,postman,aws,firebase,git,docker,vscode&theme=dark&perline=6"/>
+</div>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aherogLu&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=aherogLu&theme=nightowl&hide_border=true&background=00000000"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling&fontSize=40&fontAlignY=65"/>
+</div>
