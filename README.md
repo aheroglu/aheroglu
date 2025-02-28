@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=26&duration=4000&pause=1000&color=7D3CFF&center=true&vCenter=true&width=500&lines=.NET+Core+%7C+Angular;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Clean+Code+Advocate%E2%9C%A8"/>
 </div>
 
-<div align="center" style="margin:20px 0">
+<div align="center" style="margin:30px 0">
   <a href="https://www.linkedin.com/in/aheroglu/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -15,8 +15,7 @@
   </a>
 </div>
 
-## 🛠️ Tech Stack
-<div align="center" style="margin:15px 0">
+<div align="center" style="margin:20px 0">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,azure,postman,aws,firebase,git,docker,vscode&theme=dark&perline=6"/>
 </div>
 
