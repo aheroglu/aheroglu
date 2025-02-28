@@ -20,7 +20,7 @@
 
 <!-- TEKNOLOJİLER -->
 <div align="center" style="margin: 60px 0 40px 0">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,azure,postman,aws,firebase,git,docker,vscode&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,postman,firebase,git,vscode&theme=dark&perline=6"/>
 </div>
 
 <!-- İSTATİSTİKLER -->
