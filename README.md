@@ -1,34 +1,3 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-```typescript
-const aheroglu = {
-    pronouns: "He" | "Him",
-    code: [".NET Core", "Angular", "TypeScript", "C#", "Next.js", "React"],
-    askMeAbout: ["web dev", "tech", "app dev", "backend", "ai driven development"],
-    technologies: {
-        backEnd: {
-            dotnet: [".NET Core", "ASP.NET Core", "Entity Framework"]
-        },
-        frontEnd: {
-            js: ["Angular", "TypeScript", "Next.js", "React"],
-            css: ["Bootstrap", "Tailwind CSS"]
-        },
-        devOps: ["Firebase", "Supabase"],
-        databases: ["SQL Server", "PostgreSQL", "MongoDB"],
-        misc: ["REST APIs", "GraphQL", "Microservices"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building scalable web applications, AI driven SaaS apps, mobile apps",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
-
-</div>
-
-<br>
-
 <div align="center">
 
 # I ❤️
